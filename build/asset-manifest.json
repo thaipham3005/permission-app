@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/permission-app/static/css/main.7860d1c2.chunk.css",
+    "main.js": "/permission-app/static/js/main.392c0228.chunk.js",
+    "main.js.map": "/permission-app/static/js/main.392c0228.chunk.js.map",
+    "runtime-main.js": "/permission-app/static/js/runtime-main.2867cbb9.js",
+    "runtime-main.js.map": "/permission-app/static/js/runtime-main.2867cbb9.js.map",
+    "static/js/2.4daf0c50.chunk.js": "/permission-app/static/js/2.4daf0c50.chunk.js",
+    "static/js/2.4daf0c50.chunk.js.map": "/permission-app/static/js/2.4daf0c50.chunk.js.map",
+    "index.html": "/permission-app/index.html",
+    "static/css/main.7860d1c2.chunk.css.map": "/permission-app/static/css/main.7860d1c2.chunk.css.map",
+    "static/js/2.4daf0c50.chunk.js.LICENSE.txt": "/permission-app/static/js/2.4daf0c50.chunk.js.LICENSE.txt",
+    "static/media/logo192.78a6d0c2.png": "/permission-app/static/media/logo192.78a6d0c2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2867cbb9.js",
+    "static/js/2.4daf0c50.chunk.js",
+    "static/css/main.7860d1c2.chunk.css",
+    "static/js/main.392c0228.chunk.js"
+  ]
+}

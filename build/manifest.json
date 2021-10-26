@@ -1,0 +1,47 @@
+{
+  "short_name": "Permission App",
+  "name": "Permission App",
+  "description": "PWA Permission App using ReactJS to invoke all device's permission",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/graphics/favicon64.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/graphics/logo48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/graphics/logo60.png",
+      "type": "image/png",
+      "sizes": "60x60"
+    },
+    {
+      "src": "/graphics/logo76.png",
+      "type": "image/png",
+      "sizes": "76x76"
+    },
+    {
+      "src": "/graphics/logo144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/graphics/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/graphics/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+
+  ]
+}
